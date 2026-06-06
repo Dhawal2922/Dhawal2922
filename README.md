@@ -254,7 +254,7 @@ The ability to ideate, architect, and ship in 24–48 hours is a skill most engi
 
 <div align="center">
 
-![Snake animation](https://github.com/dhawaljain/dhawaljain/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation] <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 
 </div>
 
