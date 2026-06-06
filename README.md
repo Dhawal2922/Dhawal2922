@@ -244,21 +244,7 @@ The ability to ideate, architect, and ship in 24–48 hours is a skill most engi
 
 <div align="center">
 
-## 🏆 Achievements
 
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dhawal2922&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/dhawal2922/dhawal2922/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</div>
-
----
-
-<div align="center">
 
 ## 📈 Engineering Journey
 
