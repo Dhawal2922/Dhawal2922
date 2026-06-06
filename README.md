@@ -33,6 +33,19 @@ const dhawal = {
 
 <div align="center">
 
+## 🚀 Highlights
+
+</div>
+
+- Built interactive **3D web experiences** using React Three Fiber and Drei.
+- Developing an **AI-powered Architecture Generator** that converts product ideas into architecture diagrams and recommended tech stacks.
+- Engineered a **Cloud Storage System** with quota management, compression, decompression, and file operations.
+- Built custom UI components and animation systems from scratch instead of relying solely on libraries.
+- Exploring **System Design, Backend Engineering, AI Products, and Developer Tools**.
+- Active builder focused on shipping projects and learning through implementation.
+
+<div align="center">
+
 ## 🎯 Engineering Focus
 
 </div>
@@ -223,6 +236,20 @@ The ability to ideate, architect, and ship in 24–48 hours is a skill most engi
 
 <div align="center">
 
+## ⭐ Featured Repositories
+
+</div>
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🧠 AI Architecture Generator | Generate architecture diagrams from ideas using AI | React, Python |
+| 🌌 3D React Experiences | Interactive 3D web applications | React Three Fiber |
+| ☁️ Cloud Storage System | Storage quotas, compression, decompression | Python |
+| 🎠 Custom Carousel | Advanced UI animation engine | JavaScript |
+| 🚕 Cab Booking App | Full-stack booking workflow | React, Backend |
+
+<div align="center">
+
 ## 📊 GitHub Metrics
 
 </div>
@@ -279,17 +306,24 @@ The ability to ideate, architect, and ship in 24–48 hours is a skill most engi
 
 <div align="center">
 
-## 💡 Engineering Philosophy
+<div align="center">
+
+## 💭 What Excites Me
 
 </div>
 
-> **"Every abstraction should earn its complexity. Every feature should justify its existence. Every line should make the product better."**
+I enjoy solving problems where engineering, product thinking, and user experience intersect.
 
-- **Simplicity scales.** Complex systems fail. The right abstraction beats clever code every time.
-- **Performance is a feature.** Every millisecond matters. Users notice even when they can't articulate it.
-- **Build for humans first.** Technology is the means. Impact is the measure.
-- **Ship, learn, iterate.** A deployed imperfect product beats a perfect unreleased one.
-- **Read the source.** The best engineers aren't afraid to go deeper than the docs.
+Some areas I actively explore:
+
+- Interactive web experiences
+- AI-assisted developer workflows
+- System design and architecture
+- Developer productivity tools
+- Full-stack product development
+- Scalable frontend architecture
+
+I believe the best way to learn is by building real products, breaking things, and improving them repeatedly.
 
 ---
 
@@ -355,6 +389,25 @@ SQL Design           Load Balance          Event-Driven            LLM APIs
 </div>
 
 ---
+
+<div align="center">
+
+## 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dhawal2922&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 <div align="center">
 
