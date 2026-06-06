@@ -403,8 +403,8 @@ SQL Design           Load Balance          Event-Driven            LLM APIs
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhawal2922/Dhawal2922/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Dhawal2922/Dhawal2922/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -424,7 +424,7 @@ If you're building something ambitious — a product people will love, a system 
 **Let's build something worth remembering.**
 
 [![Hire Me](https://img.shields.io/badge/Open_to_Work-6366f1?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:your@email.com)
-[![Collaborate](https://img.shields.io/badge/Open_to_Collab-10b981?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/dhawaljain)
+[![Collaborate](https://img.shields.io/badge/Open_to_Collab-10b981?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/Dhawal2922)
 
 </div>
 
